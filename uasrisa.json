@@ -1,0 +1,1188 @@
+[
+    {
+        "halamanhome" :[
+            {
+                "header" : [
+                    {
+                        "atas" : [
+                            {
+                                "kiri" : "FREE SHIPPING ON SLL U.S ORDER OVER $50"
+                            },
+                            {
+                                "matauang" : [
+                                    {
+                                        "currently" : {
+                                            "item1" :{
+                                                "text" : "USD",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                            }
+                                        },
+                                        "dropdown" :[
+                                            {
+                                                "item2" :{
+                                            "text" : "CAD",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                        },
+                                        "item3" :{
+                                            "text" : "AUD",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                        },
+                                        "item4" :{
+                                            "text" : "EUR",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                        },
+                                        "item5" :{
+                                            "text" : "GBP",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                        }
+                                            }
+                                        ]
+                                        
+                                    }
+                                ]
+                            },
+                            {
+                                "bahasa" : [
+                                    {
+                                       "currently" : {
+                                        "item1" :{
+                                            "text" : "english",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                        }
+                                        }
+                                       ,
+                                       "dropdown" : [
+                                           {
+                                            "item1" :{
+                                                "text" : "english",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            },
+                                            "item2" :{
+                                                "text" : "french",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            },
+                                            "item3" :{
+                                                "text" : "italian",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            },
+                                            "item4" :{
+                                                "text" : "german",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            },
+                                            "item5" :{
+                                                "text" : "spainish",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                           }
+                                       ]
+                                    }
+                                ]
+                            },
+                            {
+                                "akun" : {
+                                    "isloggin" : false,
+                                    "sign" : {
+                                        "text" : "SIGN IN",
+                                        "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                    },
+        
+                                    "register" : {
+                                        "text" : "REGISTER",
+                                        "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "bawah" :[
+                            {
+                                "logo" : {
+                                    "text" : "COLOSHOP",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                },
+        
+                                "home" : {
+                                    "text" : "home",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                },
+        
+                                "shop" : {
+                                    "text" : "shop",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                },
+        
+                                "promo" : {
+                                    "text" : "promotion",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                },
+        
+                                "pages" : {
+                                    "text" : "pages",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                },
+        
+                                "blog" : {
+                                    "text" : "blog",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                },
+        
+                                "contact" : {
+                                    "text" : "contact",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                },
+                                "pencarian" : {
+                                    "icons" : "search",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                },
+                                "item" : {
+                                    "icons" : "contact",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                },
+        
+                                "keranjang" : [
+                                    {
+                                    "defaultvalue" : "2",
+                                    "icons" : "shopping",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "body" : [
+                    {
+                        "slider": [
+                            {
+                            "img" : "photos.jpg",
+                            "text1" : "SPRING/SUMMER COLLECTION 2017"
+                            },
+                            {
+                            "text2" : "Get up to 30% Off New Arrivals"
+                            },
+                            {
+                            "button" : {
+                                "text" : "shop now",
+                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                }
+                            }
+                    ]
+                    },
+                    {
+                        "banner" : [
+                            {
+                            "item1" : {
+                                "img" : "photos.jpg",
+                                "text" : "women's",
+                                "url" : "https://preview.colorlib.com/theme/coloshop/categories.html"
+                            },
+                            "item2" : {
+                                "img" : "photos2.jpg",
+                                "text" : "accessories's's",
+                                "url" : "https://preview.colorlib.com/theme/coloshop/categories.html"
+                            },
+                            "item3" : {
+                                "img" : "photos3.jpg",
+                                "text" : "men's",
+                                "url" : "https://preview.colorlib.com/theme/coloshop/categories.html"
+                            }
+                        }
+                        ]
+                    },
+                    {
+                        "newArrivals" :[
+                            {
+                            "text" : "New Arrivals",
+                            "currentlymenu" :{
+                                "all" : 
+                                {
+                                "button" :{
+                                    "text" : "all",
+                                    "produk1" : {
+                                        "item1" : {
+                                            "img" : "photos.jpg",
+                                            "text" : "fujifilm x100t 16 mp digital camera (silver)",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                            "price" : "$520.000",
+                                            "button" : {
+                                                "text" : "add to card",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                            
+                                        },
+                                        "item2" : {
+                                            "img" : "photos.jpg",
+                                            "text" : "samsung cf591 series curved 27- inc fdh monitor",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                            "price" : "$610.000",
+                                            "button" : {
+                                                "text" : "add to card",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                            
+                                        },
+                                        "item3" : {
+                                            "img" : "photos.jpg",
+                                            "text" : "blue yeti usb microphone black edition",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                            "price" : "$120.000",
+                                            "button" : {
+                                                "text" : "add to card",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                            
+                                        },
+                                        "item4" : {
+                                            "img" : "photos.jpg",
+                                            "text" : "dymo label writer 450 turbo thermal label printer",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                            "price" : "$410.000",
+                                            "button" : {
+                                                "text" : "add to card",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                            
+                                        },
+                                        "item5" : {
+                                            "img" : "photos.jpg",
+                                            "text" : "pryma headphones, rose gold & grey",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                            "price" : "$180.000",
+                                            "button" : {
+                                                "text" : "add to card",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                            
+                                        },
+                                        "item6" : {
+                                            "img" : "photos.jpg",
+                                            "text" : "samsung cf591 series curved 27- inc fdh monitor",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                            "price" : "$610.000",
+                                            "button" : {
+                                                "text" : "add to card",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                            
+                                        },
+                                        "item7" : {
+                                            "img" : "photos.jpg",
+                                            "text" : "blue yeti usb microphone black edition",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                            "price" : "$120.000",
+                                            "button" : {
+                                                "text" : "add to card",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                            
+                                        },
+                                        "item8" : {
+                                            "img" : "photos.jpg",
+                                            "text" : "dymo label writer 450 turbo thermal label printer",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                            "price" : "$410.000",
+                                            "button" : {
+                                                "text" : "add to card",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                            
+                                        },
+                                        "item9" : {
+                                            "img" : "photos.jpg",
+                                            "text" : "pryma headphones, rose gold & grey",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                            "price" : "$180.000",
+                                            "button" : {
+                                                "text" : "add to card",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                            
+                                        },
+                                        "item10" : {
+                                            "img" : "photos.jpg",
+                                            "text" : "pryma headphones, rose gold & grey",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                            "price" : "$180.000",
+                                            "button" : {
+                                                "text" : "add to card",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                            
+                                        }
+                                    }
+                                }
+                                }
+                            },
+                            "menu" : {
+                                "all" : 
+                                {
+                                "button" :{
+                                    "text" : "all",
+                                    "produk1" : {
+                                        "item1" : {
+                                            "img" : "photos.jpg",
+                                            "text" : "fujifilm x100t 16 mp digital camera (silver)",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                            "price" : "$520.000",
+                                            "button" : {
+                                                "text" : "add to card",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                            
+                                        },
+                                        "item2" : {
+                                            "img" : "photos.jpg",
+                                            "text" : "samsung cf591 series curved 27- inc fdh monitor",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                            "price" : "$610.000",
+                                            "button" : {
+                                                "text" : "add to card",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                            
+                                        },
+                                        "item3" : {
+                                            "img" : "photos.jpg",
+                                            "text" : "blue yeti usb microphone black edition",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                            "price" : "$120.000",
+                                            "button" : {
+                                                "text" : "add to card",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                            
+                                        },
+                                        "item4" : {
+                                            "img" : "photos.jpg",
+                                            "text" : "dymo label writer 450 turbo thermal label printer",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                            "price" : "$410.000",
+                                            "button" : {
+                                                "text" : "add to card",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                            
+                                        },
+                                        "item5" : {
+                                            "img" : "photos.jpg",
+                                            "text" : "pryma headphones, rose gold & grey",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                            "price" : "$180.000",
+                                            "button" : {
+                                                "text" : "add to card",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                            
+                                        },
+                                        "item6" : {
+                                            "img" : "photos.jpg",
+                                            "text" : "samsung cf591 series curved 27- inc fdh monitor",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                            "price" : "$610.000",
+                                            "button" : {
+                                                "text" : "add to card",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                            
+                                        },
+                                        "item7" : {
+                                            "img" : "photos.jpg",
+                                            "text" : "blue yeti usb microphone black edition",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                            "price" : "$120.000",
+                                            "button" : {
+                                                "text" : "add to card",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                            
+                                        },
+                                        "item8" : {
+                                            "img" : "photos.jpg",
+                                            "text" : "dymo label writer 450 turbo thermal label printer",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                            "price" : "$410.000",
+                                            "button" : {
+                                                "text" : "add to card",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                            
+                                        },
+                                        "item9" : {
+                                            "img" : "photos.jpg",
+                                            "text" : "pryma headphones, rose gold & grey",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                            "price" : "$180.000",
+                                            "button" : {
+                                                "text" : "add to card",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                            
+                                        },
+                                        "item10" : {
+                                            "img" : "photos.jpg",
+                                            "text" : "pryma headphones, rose gold & grey",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                            "price" : "$180.000",
+                                            "button" : {
+                                                "text" : "add to card",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                            
+                                        }
+                                    }
+                                }
+                                },
+                                "women" :
+                                     {
+                                    "button" :{
+                                        "text" : "women's",
+                                        "produk1" : {
+                                            "item1" : {
+                                                "img" : "photos.jpg",
+                                                "text" : "fujifilm x100t 16 mp digital camera (silver)",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                                "price" : "$520.000",
+                                                "button" : {
+                                                    "text" : "add to card",
+                                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                                }
+                                                
+                                            },
+                                            "item2" : {
+                                                "img" : "photos.jpg",
+                                                "text" : "samsung cf591 series curved 27- inc fdh monitor",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                                "price" : "$610.000",
+                                                "button" : {
+                                                    "text" : "add to card",
+                                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                                }
+                                                
+                                            },
+                                            "item3" : {
+                                                "img" : "photos.jpg",
+                                                "text" : "blue yeti usb microphone black edition",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                                "price" : "$120.000",
+                                                "button" : {
+                                                    "text" : "add to card",
+                                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                                }
+                                                
+                                            },
+                                            "item4" : {
+                                                "img" : "photos.jpg",
+                                                "text" : "dymo label writer 450 turbo thermal label printer",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                                "price" : "$410.000",
+                                                "button" : {
+                                                    "text" : "add to card",
+                                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                                }
+                                            }
+                                        }
+                                            
+                                    }
+                                },
+                                "accessories" : 
+                                    {
+                                    "button" :{
+                                        "text" : "accessories",
+                                        "produk1" :[ {
+                                            "item1" : {
+                                                "img" : "photos.jpg",
+                                                "text" : "dymo label writer 450 turbo thermal label printer",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                                "price" : "$410.000",
+                                                "button" : {
+                                                    "text" : "add to card",
+                                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                                }
+                                                
+                                            }
+                                        },
+                                        {
+                                        "produk2" : {
+                                            "item1" : {
+                                                "img" : "photos.jpg",
+                                                "text" : "fujifilm x100t 16 mp digital camera (silver)",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                                "price" : "$520.000",
+                                                "button" : {
+                                                    "text" : "add to card",
+                                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                                    }  
+                                                }
+                                            }
+                                        },
+                                        {
+                                        "produk3" : {
+                                             "item1" : {
+                                                "img" : "photos.jpg",
+                                                "text" : "Blue yeti USB Microphone Blackout Edition",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                                "price" : "$120.000",
+                                                "button" : {
+                                                    "text" : "add to card",
+                                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                                    }  
+                                                }
+                                            }
+                                        }
+                                        ]
+                                    }
+                                }      
+                            }
+                            }
+                        ]
+                    },   
+                    {
+                        "flashsale" :[
+                            {
+                                "img" : "gambar2",
+                                "text" : "deal of the week"
+                            },
+                            {
+                                "hitungundur" : [
+                                    {
+                                        "item1" :
+                                            {
+                                                "id" : "2",
+                                                "text" : "day"
+                                            }
+                                    },
+                                    {
+                                        "item2" : 
+                                            {
+                                                "id" : "23",
+                                                "text" : "hours"
+                                            }
+                                    },
+                                    {
+                                        "item3" : 
+                                            {
+                                                "id" : "59",
+                                                "text" : "mins"
+                                            }
+                                    },
+                                    {
+                                        "item4" :
+                                            {
+                                                "id" : "59",
+                                                "text" : "sec"
+                                            }
+                                    }
+                                ]
+                            },
+                            {
+                                "buttontext" : "shop now"
+                            }
+                        ]
+                    },
+                    {
+                        "bestSellers" :[
+                            {
+                                "teks" : "Best Seller",
+                                "produk" :[ 
+                                    {
+                                    "item1" : {
+                                        "img" : "photos.jpg",
+                                        "text" : "fujifilm x100t 16 mp digital camera (silver)",
+                                        "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                        "price" : "$520.000",
+                                        "button" : {
+                                            "text" : "add to card",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                        }
+                                        
+                                    },
+                                    "item2" : {
+                                        "img" : "photos.jpg",
+                                        "text" : "samsung cf591 series curved 27- inc fdh monitor",
+                                        "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                        "price" : "$610.000",
+                                        "button" : {
+                                            "text" : "add to card",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                        }
+                                        
+                                    },
+                                    "item3" : {
+                                        "img" : "photos.jpg",
+                                        "text" : "blue yeti usb microphone black edition",
+                                        "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                        "price" : "$120.000",
+                                        "button" : {
+                                            "text" : "add to card",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                        }
+                                        
+                                    },
+                                    "item4" : {
+                                        "img" : "photos.jpg",
+                                        "text" : "dymo label writer 450 turbo thermal label printer",
+                                        "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                        "price" : "$410.000",
+                                        "button" : {
+                                            "text" : "add to card",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                        }
+                                        
+                                    },
+                                    "item5" : {
+                                        "img" : "photos.jpg",
+                                        "text" : "pryma headphones, rose gold & grey",
+                                        "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                        "price" : "$180.000",
+                                        "button" : {
+                                            "text" : "add to card",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                        }
+                                        
+                                    },
+                                    "item6" : {
+                                        "img" : "photos.jpg",
+                                        "text" : "samsung cf591 series curved 27- inc fdh monitor",
+                                        "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                        "price" : "$610.000",
+                                        "button" : {
+                                            "text" : "add to card",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                        }
+                                        
+                                    },
+                                    "item7" : {
+                                        "img" : "photos.jpg",
+                                        "text" : "blue yeti usb microphone black edition",
+                                        "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                        "price" : "$120.000",
+                                        "button" : {
+                                            "text" : "add to card",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                        }
+                                        
+                                    },
+                                    "item8" : {
+                                        "img" : "photos.jpg",
+                                        "text" : "dymo label writer 450 turbo thermal label printer",
+                                        "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                        "price" : "$410.000",
+                                        "button" : {
+                                            "text" : "add to card",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                        }
+                                        
+                                    },
+                                    "item9" : {
+                                        "img" : "photos.jpg",
+                                        "text" : "pryma headphones, rose gold & grey",
+                                        "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                        "price" : "$180.000",
+                                        "button" : {
+                                            "text" : "add to card",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                        }
+                                        
+                                    },
+                                    "item10" : {
+                                        "img" : "photos.jpg",
+                                        "text" : "pryma headphones, rose gold & grey",
+                                        "url" : "https://preview.colorlib.com/theme/coloshop/single.html",
+                                        "price" : "$180.000",
+                                        "button" : {
+                                            "text" : "add to card",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                        }
+                                        
+                                    }
+                                }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                       "payment"  : [
+                           {
+                               "item" : [
+                                   {
+                                       "icons" : "truck",
+                                       "text" : "free shiping",
+                                       "desc" : "Suffered Alteration in Some Form"
+                                   },
+                                   {
+                                       "icons" : "money",
+                                       "text" : "cash on delivery",
+                                       "desc" : "The Internet Tend To Repeat"
+                                   },
+                                   {
+                                       "icons" : "back",
+                                       "text" : "45 days return",
+                                       "desc" : "The Internet Tend To Repeat"
+                                   },
+                                   {
+                                       "icons" : "jam",
+                                       "text" : "opening all week",
+                                       "desc" : "8am-09pm"
+                                   }
+                               ]
+                           }
+                       ]
+                    },
+                    {
+                        "blogs" : [
+                            {
+                                "text" : "Latest Blogs",
+                                "blogs" :[
+                                    {
+                                        "img"  : "gambar1",
+                                        "hover" : [
+                                            {
+                                                "atas" : "Here are the trends I see coming this fall",
+                                                "tengah" : "by admin | dec 01, 2017",
+                                                "bawah" : {
+                                                    "text" : "read more",
+                                                    "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                                }
+                                            }
+                                        ]
+        
+                                    },
+                                    {
+                                        "img"  : "gambar2",
+                                        "hover" : [
+                                            {
+                                                "atas" : "Here are the trends I see coming this fall",
+                                                "tengah" : "by admin | dec 01, 2017",
+                                                "bawah" : {
+                                                    "text" : "read more",
+                                                    "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                                }
+                                            }
+                                        ]
+        
+                                    },
+                                    {
+                                        "img"  : "gambar3",
+                                        "hover" : [
+                                            {
+                                                "atas" : "Here are the trends I see coming this fall",
+                                                "tengah" : "by admin | dec 01, 2017",
+                                                "bawah" : {
+                                                    "text" : "read more",
+                                                    "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                                }
+                                            }
+                                        ]
+        
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "bawah" : [
+                            {
+                                "judul" : "Newsletter",
+                                "text" : "Subscribe to our newsletter and get 20% off your first purchase",
+                                "placeholder" : "your email",
+                                "button" : "subscribe"
+                            }
+                        ]
+                    }
+        
+                ]
+            },
+            {
+                "footer" : [
+                    {
+                        "top" :[
+                            {
+                                "item" : "blog",
+                                "url" :  "https://preview.colorlib.com/theme/coloshop/#"
+                            },
+                            {
+                                "item" : "faqs",
+                                "url" :  "https://preview.colorlib.com/theme/coloshop/#"
+                            },
+                            {
+                                "item" : "contact us",
+                                "url" :  "https://preview.colorlib.com/theme/coloshop/contact.html"
+                            }
+                        ]
+                    },
+                    {
+                        "tengah" :[
+                            {
+                                "item" : {
+                                    "icons" : "facebook",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                }
+                            },
+                            {
+                                "item" : {
+                                    "icons" : "twiter",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                }
+                            },
+                            {
+                                "item" : {
+                                    "icons" : "instagram",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                }
+                            },
+                            {
+                                "item" : {
+                                    "icons" : "skype",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                }
+                            },
+                            {
+                                "item" : {
+                                    "icons" : "pinterest",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "bawah" : [
+                            {
+                                "text" : "©2018 All Rights Reserverd. This template is made with",
+                                "icons" : "love"
+                            },
+                            {
+                                "text" : "colorib",
+                                "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                            }
+                        ] 
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "halamancontact" : [
+            {
+                "header" : [
+                    {
+                        "atas" : [
+                            {
+                                "kiri" : "FREE SHIPPING ON SLL U.S ORDER OVER $50"
+                            },
+                            {
+                                "matauang" : [
+                                    {
+                                        "currently" : {
+                                            "item1" :{
+                                                "text" : "USD",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                            }
+                                        },
+                                        "dropdown" :[
+                                            {
+                                                "item2" :{
+                                            "text" : "CAD",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                        },
+                                        "item3" :{
+                                            "text" : "AUD",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                        },
+                                        "item4" :{
+                                            "text" : "EUR",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                        },
+                                        "item5" :{
+                                            "text" : "GBP",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                        }
+                                            }
+                                        ]
+                                        
+                                    }
+                                ]
+                            },
+                            {
+                                "bahasa" : [
+                                    {
+                                       "currently" : {
+                                        "item1" :{
+                                            "text" : "english",
+                                            "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                        }
+                                        }
+                                       ,
+                                       "dropdown" : [
+                                           {
+                                            "item1" :{
+                                                "text" : "english",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            },
+                                            "item2" :{
+                                                "text" : "french",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            },
+                                            "item3" :{
+                                                "text" : "italian",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            },
+                                            "item4" :{
+                                                "text" : "german",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            },
+                                            "item5" :{
+                                                "text" : "spainish",
+                                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                            }
+                                           }
+                                       ]
+                                    }
+                                ]
+                            },
+                            {
+                                "akun" : {
+                                    "isloggin" : false,
+                                    "sign" : {
+                                        "text" : "SIGN IN",
+                                        "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                    },
+        
+                                    "register" : {
+                                        "text" : "REGISTER",
+                                        "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "bawah" :[
+                            {
+                                "logo" : {
+                                    "text" : "COLOSHOP",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                },
+        
+                                "home" : {
+                                    "text" : "home",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                },
+        
+                                "shop" : {
+                                    "text" : "shop",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                },
+        
+                                "promo" : {
+                                    "text" : "promotion",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                },
+        
+                                "pages" : {
+                                    "text" : "pages",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                },
+        
+                                "blog" : {
+                                    "text" : "blog",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                },
+        
+                                "contact" : {
+                                    "text" : "contact",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                },
+                                "pencarian" : {
+                                    "icons" : "search",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                },
+                                "item" : {
+                                    "icons" : "contact",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                },
+        
+                                "keranjang" : [
+                                    {
+                                    "defaultvalue" : "2",
+                                    "icons" : "shopping",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/index.html#"
+                                }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "body" :[
+                    {
+                        "top" :[
+                            {
+                                "text" : "home",
+                                "url" : "https://preview.colorlib.com/theme/coloshop/index.html"
+                            },
+                            {
+                                "text" : "contact",
+                                "url" : "https://preview.colorlib.com/theme/coloshop/contact.html#"
+                            }
+                        ]
+                    },
+                    {
+                        "map" : [
+                            {
+                                "alert" :[
+                                    {
+                                      "logo" : "gambargoogle.jpg",
+                                      "text" : "This page can't load Google Maps correctly."  
+                                    },
+                                    {
+                                        "text" : "Do you own this website?",
+                                        "button" : "oke"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "contact" :[
+                            {
+                            "judul" : "contact Us",
+                            "desc" : "There are many ways to contact us. You may drop us a line, give us a call or send an email, choose what suits you the most.",
+                            "notelp" : "(800) 686-6688",
+                            "email" : "info.deercreative@gmail.com",
+                            "text" : "mm",
+                            "openhours" : "Open hours: 8.00-18.00 Mon-Fri",
+                            "close" : "Sunday: Closed"
+                            },
+                            {
+                            "text" : "follow us",
+                            "itemicons" :[
+                                {
+                                    "icons" : "facebook",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/contact.html#"
+                                },
+                                {
+                                    "icons" : "twiter",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/contact.html#"
+                                },
+                                {
+                                    "icons" : "google",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/contact.html#"
+                                },
+                                {
+                                    "icons" : "instagram",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/contact.html#"
+                                }
+                            ]
+                            }
+                        ]
+                    },
+                    {
+                        "form" : [
+                            {
+                                "judul" : "get in touch with",
+                                "text" : "Fill out the form below to recieve a free and confidential."
+                            },
+                            {
+                                "placeholder" : "name"
+                            },
+                            {
+                                "placeholder" : "email"
+                            },
+                            {
+                                "placeholder" : "website"
+                            },
+                            {
+                                "placeholder" : "message"
+                            },
+                            {
+                                "buton" : {
+                                    "text" : "send message"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "bawah" : [
+                            {
+                                "judul" : "Newsletter",
+                                "text" : "Subscribe to our newsletter and get 20% off your first purchase",
+                                "placeholder" : "your email",
+                                "button" : "subscribe"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "footer" : [
+                    {
+                        "top" :[
+                            {
+                                "item" : "blog",
+                                "url" :  "https://preview.colorlib.com/theme/coloshop/#"
+                            },
+                            {
+                                "item" : "faqs",
+                                "url" :  "https://preview.colorlib.com/theme/coloshop/#"
+                            },
+                            {
+                                "item" : "contact us",
+                                "url" :  "https://preview.colorlib.com/theme/coloshop/contact.html"
+                            }
+                        ]
+                    },
+                    {
+                        "tengah" :[
+                            {
+                                "item" : {
+                                    "icons" : "facebook",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                }
+                            },
+                            {
+                                "item" : {
+                                    "icons" : "twiter",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                }
+                            },
+                            {
+                                "item" : {
+                                    "icons" : "instagram",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                }
+                            },
+                            {
+                                "item" : {
+                                    "icons" : "skype",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                }
+                            },
+                            {
+                                "item" : {
+                                    "icons" : "pinterest",
+                                    "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "bawah" : [
+                            {
+                                "text" : "©2018 All Rights Reserverd. This template is made with",
+                                "icons" : "love"
+                            },
+                            {
+                                "text" : "colorib",
+                                "url" : "https://preview.colorlib.com/theme/coloshop/#"
+                            }
+                        ] 
+                    }
+                ]
+            }
+        ]
+    }
+]
